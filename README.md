@@ -1,9 +1,9 @@
 # The-Android-App-Market-on-Google-Play
-I work as a Data Analyst for a finance company which is closely eyeing the Android market before it launches its new app into Google Play. I have been asked to present an analysis of Google Play apps so that the team gets a comprehensive overview of different categories of apps, their ratings, and other metrics.  
+For this work, I am a Data Analyst for a finance company which is closely eyeing the Android market before it launches its new app into Google Play. I have been asked to present an analysis of Google Play apps so that the team gets a comprehensive overview of different categories of apps, their ratings, and other metrics.  
 
 This will require me to use my data manipulation and data analysis skills
 
-My 3 step process
+My instructions
 
 1. Read the apps.csv file and clean the Installs column to convert it into integer data type. Save the answer as a DataFrame apps. Going forward, I do all my analysis on the apps DataFrame.
 
